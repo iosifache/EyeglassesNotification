@@ -20,7 +20,7 @@ namespace Configuration{
 
 		namespace Image{
 
-			// #error "The path to the image must be setted (std::wstring Path = L"") and this line removed"
+			#error "The path to the image must be setted (std::wstring Path = L"") and this line removed"
 
 		}
 
