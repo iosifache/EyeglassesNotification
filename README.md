@@ -6,7 +6,7 @@
 
 ![Screenshot](resources/screenshot.png)
 
-## Build :wrench:
+## Setup :wrench:
 
 1. **clone** this repository into a fixed (installation) location
 2. **replace** the line starting with `#error` from `headers/Configuration.h` with the absolute path to the image used in the notification (the standard one, namely the `resources/image.png`, or one of yours)
